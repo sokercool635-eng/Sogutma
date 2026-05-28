@@ -182,7 +182,7 @@ export default function Home() {
               Gücü
             </h1>
             <p className="text-lg text-muted-foreground max-w-xl font-normal leading-relaxed">
-              Söker Endüstriyel Soğutma olarak; gıda, ilaç, kimya ve lojistik sektörleri için yüksek performanslı, enerji tasarruflu soğuk hava depoları ve endüstriyel soğutma sistemleri tasarlıyor, üretiyor ve kuruyoruz.
+              Söker Endüstriyel Soğutma ve Söker Soğutma olarak; gıda, ilaç, kimya ve lojistik sektörleri için yüksek performanslı, enerji tasarruflu soğuk hava depoları ve endüstriyel soğutma sistemleri tasarlıyor, üretiyor ve kuruyoruz. Sökerendstrüriyelsöğutma hizmetleriyle Diyarbakır'da lider konumdayız.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 mt-4">
@@ -263,7 +263,7 @@ export default function Home() {
                 Güvenilir, Sürdürülebilir ve Akıllı Soğutma Çözümleri
               </h2>
               <p className="text-muted-foreground leading-relaxed">
-                Söker Endüstriyel Soğutma, sektördeki köklü tecrübesiyle endüstriyel soğutma alanında lider çözümler üretmektedir. Müşterilerimizin soğuk zincir güvenliğini en üst düzeyde tutmak amacıyla mühendislik standartlarına uygun, yüksek kaliteli ekipmanlar kullanıyoruz.
+                Söker Endüstriyel Soğutma ve söker sogutma, sektördeki köklü tecrübesiyle endüstriyel soğutma alanında lider çözümler üretmektedir. Müşterilerimizin soğuk zincir güvenliğini en üst düzeyde tutmak amacıyla mühendislik standartlarına uygun, yüksek kaliteli ekipmanlar kullanıyoruz. Sökerendüstriyelsoğutma hizmetleriyle Diyarbakır'da en güvenilir partnerız.
               </p>
               <p className="text-muted-foreground leading-relaxed">
                 Tasarım aşamasından montaj ve satış sonrası periyodik bakıma kadar her adımda, işletmenizin enerji maliyetlerini minimize edecek ve verimliliği maksimuma çıkaracak sistemler geliştirmeye odaklanıyoruz.
