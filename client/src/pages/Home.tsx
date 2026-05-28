@@ -94,11 +94,11 @@ export default function Home() {
         <div className="container flex justify-between items-center">
           <div className="flex items-center gap-6">
             <span className="flex items-center gap-1.5"><Phone size={13} className="text-accent" /> 0537 408 54 04</span>
-            <span className="flex items-center gap-1.5"><Mail size={13} className="text-accent" /> info@ayazsogutma.com</span>
+
           </div>
           <div className="flex items-center gap-6">
+            <span className="flex items-center gap-1.5"><MapPin size={13} className="text-accent" /> Diyarbakır, Türkiye</span>
             <span className="flex items-center gap-1.5"><Clock size={13} className="text-accent" /> Pzt - Cmt: 08:30 - 19:00</span>
-            <span className="flex items-center gap-1.5"><ShieldCheck size={13} className="text-accent" /> Güvenilir Mühendislik Çözümleri</span>
           </div>
         </div>
       </div>
