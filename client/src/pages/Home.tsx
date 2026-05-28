@@ -584,8 +584,8 @@ export default function Home() {
             <h4 className="font-bold text-accent uppercase tracking-wider text-sm">Bize Ulaşın</h4>
             <div className="flex flex-col gap-2 text-xs text-primary-foreground/80">
               <span className="flex items-center gap-1.5"><Phone size={12} /> 0537 408 54 04</span>
-              <span className="flex items-center gap-1.5"><Mail size={12} /> info@ayazsogutma.com</span>
-              <span className="flex items-center gap-1.5"><MapPin size={12} /> İstanbul, Türkiye</span>
+              <span className="flex items-center gap-1.5"><Mail size={12} /> info@sokerinfo.com</span>
+              <span className="flex items-center gap-1.5"><MapPin size={12} /> Diyarbakır, Türkiye</span>
             </div>
           </div>
 
