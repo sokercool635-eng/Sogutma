@@ -108,7 +108,7 @@ export default function Home() {
         <div className="container py-4 flex justify-between items-center">
           <div className="flex items-baseline gap-2">
             <span className="text-2xl font-black tracking-tighter text-primary flex items-center gap-2">
-              AYAZ <span className="text-accent font-light">|</span> <span className="text-sm font-semibold tracking-widest text-muted-foreground uppercase">Endüstriyel Soğutma</span>
+              SÖKER <span className="text-accent font-light">|</span> <span className="text-sm font-semibold tracking-widest text-muted-foreground uppercase">Endüstriyel Soğutma</span>
             </span>
           </div>
 
@@ -182,7 +182,7 @@ export default function Home() {
               Gücü
             </h1>
             <p className="text-lg text-muted-foreground max-w-xl font-normal leading-relaxed">
-              Ayaz Endüstriyel Soğutma olarak; gıda, ilaç, kimya ve lojistik sektörleri için yüksek performanslı, enerji tasarruflu soğuk hava depoları ve endüstriyel soğutma sistemleri tasarlıyor, üretiyor ve kuruyoruz.
+              Söker Endüstriyel Soğutma olarak; gıda, ilaç, kimya ve lojistik sektörleri için yüksek performanslı, enerji tasarruflu soğuk hava depoları ve endüstriyel soğutma sistemleri tasarlıyor, üretiyor ve kuruyoruz.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 mt-4">
@@ -233,7 +233,7 @@ export default function Home() {
             <div className="border-4 border-primary p-2 bg-background">
               <img 
                 src="https://d2xsxph8kpxj0f.cloudfront.net/310519663706451843/6Z8fNrbXjtGDfefNAQSLFm/hero_cooling-ZjyKuFzg7dBba5772RotRm.webp" 
-                alt="Ayaz Endüstriyel Soğutma Sistemleri" 
+                alt="Söker Endüstriyel Soğutma Sistemleri" 
                 className="w-full object-cover filter contrast-105 grayscale hover:grayscale-0 transition-all duration-500"
               />
             </div>
@@ -263,7 +263,7 @@ export default function Home() {
                 Güvenilir, Sürdürülebilir ve Akıllı Soğutma Çözümleri
               </h2>
               <p className="text-muted-foreground leading-relaxed">
-                Ayaz Endüstriyel Soğutma, sektördeki köklü tecrübesiyle endüstriyel soğutma alanında lider çözümler üretmektedir. Müşterilerimizin soğuk zincir güvenliğini en üst düzeyde tutmak amacıyla mühendislik standartlarına uygun, yüksek kaliteli ekipmanlar kullanıyoruz.
+                Söker Endüstriyel Soğutma, sektördeki köklü tecrübesiyle endüstriyel soğutma alanında lider çözümler üretmektedir. Müşterilerimizin soğuk zincir güvenliğini en üst düzeyde tutmak amacıyla mühendislik standartlarına uygun, yüksek kaliteli ekipmanlar kullanıyoruz.
               </p>
               <p className="text-muted-foreground leading-relaxed">
                 Tasarım aşamasından montaj ve satış sonrası periyodik bakıma kadar her adımda, işletmenizin enerji maliyetlerini minimize edecek ve verimliliği maksimuma çıkaracak sistemler geliştirmeye odaklanıyoruz.
@@ -592,8 +592,8 @@ export default function Home() {
         </div>
 
         <div className="container border-t border-primary-foreground/10 mt-8 pt-6 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-primary-foreground/50">
-          <p>© {new Date().getFullYear()} Ayaz Endüstriyel Soğutma. Tüm Hakları Saklıdır.</p>
-          <p>Tasarım & Mühendislik: Ayaz Soğutma</p>
+          <p>© {new Date().getFullYear()} Söker Endüstriyel Soğutma. Tüm Hakları Saklıdır.</p>
+          <p>Tasarım & Mühendislik: Söker Soğutma</p>
         </div>
       </footer>
 
