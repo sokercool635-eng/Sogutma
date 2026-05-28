@@ -437,7 +437,7 @@ export default function Home() {
                   </div>
                   <div>
                     <p className="text-xs text-muted-foreground uppercase tracking-wider font-semibold">E-Posta Adresimiz</p>
-                    <a href="mailto:info@ayazsogutma.com" className="text-lg font-bold text-primary hover:text-accent transition-colors">info@ayazsogutma.com</a>
+                    <a href="mailto:info@SOKERMURAT.com" className="text-lg font-bold text-primary hover:text-accent transition-colors">info@ayazsogutma.com</a>
                   </div>
                 </div>
 
@@ -446,8 +446,8 @@ export default function Home() {
                     <MapPin size={20} />
                   </div>
                   <div>
-                    <p className="text-xs text-muted-foreground uppercase tracking-wider font-semibold">Merkez Ofis</p>
-                    <p className="text-sm font-bold text-primary">İstanbul, Türkiye</p>
+                    <p className="text-xs text-muted-foreground uppercase tracking-wider font-semibold">Merkez YENİSEHİR</p>
+                    <p className="text-sm font-bold text-primary">DİYARBAKIR, Türkiye</p>
                   </div>
                 </div>
               </div>
