@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Söker Endüstriyel Soğutma",
+  "alternateName": "Söker Soğutma",
+  "url": "https://xn--ayzendstriyelsoutma21-eic82f.xyz",
+  "telephone": "+905374085404",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Diyarbakır",
+    "addressCountry": "TR"
+  },
+  "description": "Söker Endüstriyel Soğutma - Diyarbakır'da profesyonel soğuk oda kurulumu, chiller sistemleri, endüstriyel soğutma ve 7/24 teknik servis.",
+  "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663706451843/6Z8fNrbXjtGDfefNAQSLFm/hero_cooling-ZjyKuFzg7dBba5772RotRm.webp",
+  "priceRange": "$$",
+  "sameAs": [
+    "https://wa.me/905374085404"
+  ],
+  "serviceArea": {
+    "@type": "City",
+    "name": "Diyarbakır"
+  },
+  "knowsAbout": [
+    "Soğuk oda kurulumu",
+    "Chiller sistemleri",
+    "Endüstriyel soğutma",
+    "Teknik servis",
+    "Sökerendüstriyelsoğutma"
+  ]
+}
